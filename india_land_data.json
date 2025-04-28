@@ -1,0 +1,1802 @@
+{
+  "(19.000322188881384, 73.01651442960059)": {
+    "city": "Mumbai",
+    "address": "Property 1 in Central Business District, Mumbai",
+    "classification": "private",
+    "subtype": "Commercial",
+    "zone": "Central Business District",
+    "price": 165051.06,
+    "area": 965.02
+  },
+  "(19.22183902117862, 72.86821027549944)": {
+    "city": "Mumbai",
+    "address": "Property 2 in Commercial Zone, Mumbai",
+    "classification": "govt",
+    "subtype": "Central Government",
+    "zone": "Commercial Zone",
+    "price": 82642.18,
+    "area": 915.58
+  },
+  "(19.203009067289198, 72.78004258461411)": {
+    "city": "Mumbai",
+    "address": "Property 3 in Industrial Zone, Mumbai",
+    "classification": "private",
+    "subtype": "Industrial",
+    "zone": "Industrial Zone",
+    "price": 56989.5,
+    "area": 790.9
+  },
+  "(19.139748723348568, 72.81130042673152)": {
+    "city": "Mumbai",
+    "address": "Property 4 in Rural, Mumbai",
+    "classification": "public",
+    "subtype": "Hospital",
+    "zone": "Rural",
+    "price": 17552.56,
+    "area": 907.76
+  },
+  "(19.11334329412538, 72.86673768619103)": {
+    "city": "Mumbai",
+    "address": "Property 5 in Central Business District, Mumbai",
+    "classification": "govt",
+    "subtype": "State Government",
+    "zone": "Central Business District",
+    "price": 97121.27,
+    "area": 927.14
+  },
+  "(19.087518836445014, 73.0621450879723)": {
+    "city": "Mumbai",
+    "address": "Property 6 in Suburban, Mumbai",
+    "classification": "public",
+    "subtype": "Transport",
+    "zone": "Suburban",
+    "price": 32555.07,
+    "area": 483.77
+  },
+  "(19.039454455352615, 72.76433235918591)": {
+    "city": "Mumbai",
+    "address": "Property 7 in Suburban, Mumbai",
+    "classification": "govt",
+    "subtype": "Municipal",
+    "zone": "Suburban",
+    "price": 29645.73,
+    "area": 745.41
+  },
+  "(19.13426197627352, 72.98145861545957)": {
+    "city": "Mumbai",
+    "address": "Property 8 in Industrial Zone, Mumbai",
+    "classification": "govt",
+    "subtype": "State Government",
+    "zone": "Industrial Zone",
+    "price": 35813.09,
+    "area": 767.51
+  },
+  "(19.177475379461736, 72.80581716037469)": {
+    "city": "Mumbai",
+    "address": "Property 9 in Commercial Zone, Mumbai",
+    "classification": "public",
+    "subtype": "Transport",
+    "zone": "Commercial Zone",
+    "price": 101169.98,
+    "area": 292.22
+  },
+  "(19.09524128700502, 72.87868210390725)": {
+    "city": "Mumbai",
+    "address": "Property 10 in Commercial Zone, Mumbai",
+    "classification": "govt",
+    "subtype": "Central Government",
+    "zone": "Commercial Zone",
+    "price": 92099.21,
+    "area": 180.86
+  },
+  "(28.617978938434934, 77.20617077329503)": {
+    "city": "Delhi",
+    "address": "Property 1 in Central Business District, Delhi",
+    "classification": "private",
+    "subtype": "Commercial",
+    "zone": "Central Business District",
+    "price": 168582.59,
+    "area": 416.91
+  },
+  "(28.567537206527494, 77.26947517713774)": {
+    "city": "Delhi",
+    "address": "Property 2 in Residential Zone, Delhi",
+    "classification": "govt",
+    "subtype": "Central Government",
+    "zone": "Residential Zone",
+    "price": 55658.78,
+    "area": 280.68
+  },
+  "(28.436360197068254, 77.26543537764029)": {
+    "city": "Delhi",
+    "address": "Property 3 in Suburban, Delhi",
+    "classification": "public",
+    "subtype": "Hospital",
+    "zone": "Suburban",
+    "price": 36963.8,
+    "area": 593.22
+  },
+  "(28.4924887872428, 77.18776936238537)": {
+    "city": "Delhi",
+    "address": "Property 4 in Central Business District, Delhi",
+    "classification": "public",
+    "subtype": "Hospital",
+    "zone": "Central Business District",
+    "price": 136380.47,
+    "area": 920.82
+  },
+  "(28.60316896238528, 77.2613205171808)": {
+    "city": "Delhi",
+    "address": "Property 5 in Central Business District, Delhi",
+    "classification": "govt",
+    "subtype": "Municipal",
+    "zone": "Central Business District",
+    "price": 111240.29,
+    "area": 371.95
+  },
+  "(28.587912177212264, 77.25570877055874)": {
+    "city": "Delhi",
+    "address": "Property 6 in Residential Zone, Delhi",
+    "classification": "govt",
+    "subtype": "Municipal",
+    "zone": "Residential Zone",
+    "price": 55470.75,
+    "area": 768.48
+  },
+  "(28.506312096910058, 77.37065221246611)": {
+    "city": "Delhi",
+    "address": "Property 7 in Rural, Delhi",
+    "classification": "private",
+    "subtype": "Agricultural",
+    "zone": "Rural",
+    "price": 23509.04,
+    "area": 700.88
+  },
+  "(28.609834009646995, 77.20243006417459)": {
+    "city": "Delhi",
+    "address": "Property 8 in Commercial Zone, Delhi",
+    "classification": "public",
+    "subtype": "Hospital",
+    "zone": "Commercial Zone",
+    "price": 118428.42,
+    "area": 534.71
+  },
+  "(28.484545814614155, 77.15738329533717)": {
+    "city": "Delhi",
+    "address": "Property 9 in Commercial Zone, Delhi",
+    "classification": "private",
+    "subtype": "Agricultural",
+    "zone": "Commercial Zone",
+    "price": 136828.33,
+    "area": 611.56
+  },
+  "(28.735924984029992, 77.2024598124036)": {
+    "city": "Delhi",
+    "address": "Property 10 in Commercial Zone, Delhi",
+    "classification": "govt",
+    "subtype": "Central Government",
+    "zone": "Commercial Zone",
+    "price": 76516.07,
+    "area": 978.68
+  },
+  "(12.898342485683827, 77.63585232029368)": {
+    "city": "Bangalore",
+    "address": "Property 1 in Commercial Zone, Bangalore",
+    "classification": "private",
+    "subtype": "Agricultural",
+    "zone": "Commercial Zone",
+    "price": 147573.25,
+    "area": 762.05
+  },
+  "(13.070245932794762, 77.61563043669732)": {
+    "city": "Bangalore",
+    "address": "Property 2 in Residential Zone, Bangalore",
+    "classification": "govt",
+    "subtype": "Municipal",
+    "zone": "Residential Zone",
+    "price": 57093.03,
+    "area": 726.04
+  },
+  "(12.954212776491168, 77.5321938326373)": {
+    "city": "Bangalore",
+    "address": "Property 3 in Residential Zone, Bangalore",
+    "classification": "govt",
+    "subtype": "Central Government",
+    "zone": "Residential Zone",
+    "price": 60538.83,
+    "area": 954.3
+  },
+  "(12.832912230230663, 77.47473080273544)": {
+    "city": "Bangalore",
+    "address": "Property 4 in Residential Zone, Bangalore",
+    "classification": "govt",
+    "subtype": "Central Government",
+    "zone": "Residential Zone",
+    "price": 55111.32,
+    "area": 395.08
+  },
+  "(12.994854623083274, 77.6135281551017)": {
+    "city": "Bangalore",
+    "address": "Property 5 in Central Business District, Bangalore",
+    "classification": "public",
+    "subtype": "Hospital",
+    "zone": "Central Business District",
+    "price": 139799.17,
+    "area": 994.85
+  },
+  "(12.996038989318565, 77.58017990747992)": {
+    "city": "Bangalore",
+    "address": "Property 6 in Residential Zone, Bangalore",
+    "classification": "private",
+    "subtype": "Commercial",
+    "zone": "Residential Zone",
+    "price": 100653.2,
+    "area": 130.42
+  },
+  "(12.778610576103075, 77.62674553410503)": {
+    "city": "Bangalore",
+    "address": "Property 7 in Central Business District, Bangalore",
+    "classification": "public",
+    "subtype": "Transport",
+    "zone": "Central Business District",
+    "price": 123089.55,
+    "area": 668.82
+  },
+  "(12.992058633254583, 77.64076725035058)": {
+    "city": "Bangalore",
+    "address": "Property 8 in Rural, Bangalore",
+    "classification": "private",
+    "subtype": "Residential",
+    "zone": "Rural",
+    "price": 23473.29,
+    "area": 935.4
+  },
+  "(12.860922759947842, 77.74117829522297)": {
+    "city": "Bangalore",
+    "address": "Property 9 in Central Business District, Bangalore",
+    "classification": "public",
+    "subtype": "Hospital",
+    "zone": "Central Business District",
+    "price": 128134.74,
+    "area": 640.63
+  },
+  "(13.007231239135757, 77.554529724505)": {
+    "city": "Bangalore",
+    "address": "Property 10 in Rural, Bangalore",
+    "classification": "govt",
+    "subtype": "State Government",
+    "zone": "Rural",
+    "price": 14892.2,
+    "area": 840.96
+  },
+  "(17.238797682775385, 78.56997002960982)": {
+    "city": "Hyderabad",
+    "address": "Property 1 in Central Business District, Hyderabad",
+    "classification": "private",
+    "subtype": "Agricultural",
+    "zone": "Central Business District",
+    "price": 173814.53,
+    "area": 675.9
+  },
+  "(17.318461386175194, 78.41061616122788)": {
+    "city": "Hyderabad",
+    "address": "Property 2 in Industrial Zone, Hyderabad",
+    "classification": "private",
+    "subtype": "Industrial",
+    "zone": "Industrial Zone",
+    "price": 60314.53,
+    "area": 804.84
+  },
+  "(17.3902479012796, 78.49315060743515)": {
+    "city": "Hyderabad",
+    "address": "Property 3 in Central Business District, Hyderabad",
+    "classification": "public",
+    "subtype": "School",
+    "zone": "Central Business District",
+    "price": 147742.12,
+    "area": 452.85
+  },
+  "(17.373314940124093, 78.52502853164258)": {
+    "city": "Hyderabad",
+    "address": "Property 4 in Commercial Zone, Hyderabad",
+    "classification": "private",
+    "subtype": "Residential",
+    "zone": "Commercial Zone",
+    "price": 129767.23,
+    "area": 185.5
+  },
+  "(17.301831750698454, 78.48991124305068)": {
+    "city": "Hyderabad",
+    "address": "Property 5 in Commercial Zone, Hyderabad",
+    "classification": "private",
+    "subtype": "Industrial",
+    "zone": "Commercial Zone",
+    "price": 150065.35,
+    "area": 888.58
+  },
+  "(17.492261173429046, 78.50769196001814)": {
+    "city": "Hyderabad",
+    "address": "Property 6 in Rural, Hyderabad",
+    "classification": "govt",
+    "subtype": "Central Government",
+    "zone": "Rural",
+    "price": 12948.79,
+    "area": 862.55
+  },
+  "(17.328076466283672, 78.55689801887087)": {
+    "city": "Hyderabad",
+    "address": "Property 7 in Central Business District, Hyderabad",
+    "classification": "govt",
+    "subtype": "Central Government",
+    "zone": "Central Business District",
+    "price": 109147.64,
+    "area": 751.13
+  },
+  "(17.404653289641967, 78.48909209543537)": {
+    "city": "Hyderabad",
+    "address": "Property 8 in Residential Zone, Hyderabad",
+    "classification": "govt",
+    "subtype": "Municipal",
+    "zone": "Residential Zone",
+    "price": 56044.14,
+    "area": 224.63
+  },
+  "(17.220893455622658, 78.45945592805776)": {
+    "city": "Hyderabad",
+    "address": "Property 9 in Residential Zone, Hyderabad",
+    "classification": "govt",
+    "subtype": "Municipal",
+    "zone": "Residential Zone",
+    "price": 52124.0,
+    "area": 736.63
+  },
+  "(17.37561720156012, 78.48946361592071)": {
+    "city": "Hyderabad",
+    "address": "Property 10 in Residential Zone, Hyderabad",
+    "classification": "public",
+    "subtype": "Transport",
+    "zone": "Residential Zone",
+    "price": 74608.47,
+    "area": 825.16
+  },
+  "(22.924893481625226, 72.65215910597313)": {
+    "city": "Ahmedabad",
+    "address": "Property 1 in Suburban, Ahmedabad",
+    "classification": "private",
+    "subtype": "Industrial",
+    "zone": "Suburban",
+    "price": 49680.64,
+    "area": 939.57
+  },
+  "(22.925186318820124, 72.56001410779159)": {
+    "city": "Ahmedabad",
+    "address": "Property 2 in Commercial Zone, Ahmedabad",
+    "classification": "public",
+    "subtype": "Transport",
+    "zone": "Commercial Zone",
+    "price": 98745.53,
+    "area": 437.54
+  },
+  "(23.07237617321832, 72.5571301608383)": {
+    "city": "Ahmedabad",
+    "address": "Property 3 in Suburban, Ahmedabad",
+    "classification": "govt",
+    "subtype": "State Government",
+    "zone": "Suburban",
+    "price": 27645.17,
+    "area": 643.61
+  },
+  "(22.946181614058784, 72.67035633812783)": {
+    "city": "Ahmedabad",
+    "address": "Property 4 in Central Business District, Ahmedabad",
+    "classification": "private",
+    "subtype": "Agricultural",
+    "zone": "Central Business District",
+    "price": 164167.17,
+    "area": 175.56
+  },
+  "(23.168157991287032, 72.44118132924577)": {
+    "city": "Ahmedabad",
+    "address": "Property 5 in Residential Zone, Ahmedabad",
+    "classification": "public",
+    "subtype": "Hospital",
+    "zone": "Residential Zone",
+    "price": 76290.12,
+    "area": 234.43
+  },
+  "(23.04120076993836, 72.56530281424763)": {
+    "city": "Ahmedabad",
+    "address": "Property 6 in Industrial Zone, Ahmedabad",
+    "classification": "public",
+    "subtype": "Park",
+    "zone": "Industrial Zone",
+    "price": 45327.29,
+    "area": 121.96
+  },
+  "(22.994945387659254, 72.4874854762877)": {
+    "city": "Ahmedabad",
+    "address": "Property 7 in Commercial Zone, Ahmedabad",
+    "classification": "govt",
+    "subtype": "Municipal",
+    "zone": "Commercial Zone",
+    "price": 85467.85,
+    "area": 453.59
+  },
+  "(23.017168329291522, 72.565594453871)": {
+    "city": "Ahmedabad",
+    "address": "Property 8 in Commercial Zone, Ahmedabad",
+    "classification": "govt",
+    "subtype": "State Government",
+    "zone": "Commercial Zone",
+    "price": 88915.57,
+    "area": 990.67
+  },
+  "(23.062833756569322, 72.71836888792589)": {
+    "city": "Ahmedabad",
+    "address": "Property 9 in Commercial Zone, Ahmedabad",
+    "classification": "public",
+    "subtype": "School",
+    "zone": "Commercial Zone",
+    "price": 112191.4,
+    "area": 933.76
+  },
+  "(22.969646831259794, 72.6381140113736)": {
+    "city": "Ahmedabad",
+    "address": "Property 10 in Suburban, Ahmedabad",
+    "classification": "govt",
+    "subtype": "Municipal",
+    "zone": "Suburban",
+    "price": 29545.64,
+    "area": 870.64
+  },
+  "(13.23341783090285, 80.26097142837743)": {
+    "city": "Chennai",
+    "address": "Property 1 in Industrial Zone, Chennai",
+    "classification": "govt",
+    "subtype": "Municipal",
+    "zone": "Industrial Zone",
+    "price": 33632.05,
+    "area": 750.8
+  },
+  "(13.081837979314322, 80.26889096394547)": {
+    "city": "Chennai",
+    "address": "Property 2 in Suburban, Chennai",
+    "classification": "private",
+    "subtype": "Residential",
+    "zone": "Suburban",
+    "price": 44254.85,
+    "area": 510.01
+  },
+  "(13.00770306470554, 80.17932255432075)": {
+    "city": "Chennai",
+    "address": "Property 3 in Commercial Zone, Chennai",
+    "classification": "private",
+    "subtype": "Commercial",
+    "zone": "Commercial Zone",
+    "price": 140578.31,
+    "area": 201.53
+  },
+  "(13.121683674852521, 80.32897445113304)": {
+    "city": "Chennai",
+    "address": "Property 4 in Suburban, Chennai",
+    "classification": "govt",
+    "subtype": "Central Government",
+    "zone": "Suburban",
+    "price": 26740.16,
+    "area": 880.49
+  },
+  "(13.154971167962218, 80.17950909743941)": {
+    "city": "Chennai",
+    "address": "Property 5 in Central Business District, Chennai",
+    "classification": "private",
+    "subtype": "Agricultural",
+    "zone": "Central Business District",
+    "price": 194860.07,
+    "area": 598.63
+  },
+  "(12.944588321344959, 80.19768086932832)": {
+    "city": "Chennai",
+    "address": "Property 6 in Commercial Zone, Chennai",
+    "classification": "private",
+    "subtype": "Agricultural",
+    "zone": "Commercial Zone",
+    "price": 133745.84,
+    "area": 257.52
+  },
+  "(13.25497347941416, 80.35446916901033)": {
+    "city": "Chennai",
+    "address": "Property 7 in Residential Zone, Chennai",
+    "classification": "govt",
+    "subtype": "Central Government",
+    "zone": "Residential Zone",
+    "price": 60913.16,
+    "area": 788.56
+  },
+  "(13.026004164956655, 80.2872818439507)": {
+    "city": "Chennai",
+    "address": "Property 8 in Central Business District, Chennai",
+    "classification": "public",
+    "subtype": "Transport",
+    "zone": "Central Business District",
+    "price": 128278.04,
+    "area": 532.82
+  },
+  "(13.049593096243239, 80.23870179293777)": {
+    "city": "Chennai",
+    "address": "Property 9 in Commercial Zone, Chennai",
+    "classification": "private",
+    "subtype": "Commercial",
+    "zone": "Commercial Zone",
+    "price": 146874.25,
+    "area": 295.69
+  },
+  "(13.020394933628616, 80.27176564462769)": {
+    "city": "Chennai",
+    "address": "Property 10 in Industrial Zone, Chennai",
+    "classification": "public",
+    "subtype": "Transport",
+    "zone": "Industrial Zone",
+    "price": 42872.78,
+    "area": 777.01
+  },
+  "(22.717740122612028, 88.41118292727839)": {
+    "city": "Kolkata",
+    "address": "Property 1 in Rural, Kolkata",
+    "classification": "public",
+    "subtype": "Hospital",
+    "zone": "Rural",
+    "price": 16588.66,
+    "area": 283.27
+  },
+  "(22.49239979951755, 88.22860358860068)": {
+    "city": "Kolkata",
+    "address": "Property 2 in Residential Zone, Kolkata",
+    "classification": "public",
+    "subtype": "Transport",
+    "zone": "Residential Zone",
+    "price": 67662.72,
+    "area": 557.26
+  },
+  "(22.498081592752822, 88.39012020541895)": {
+    "city": "Kolkata",
+    "address": "Property 3 in Central Business District, Kolkata",
+    "classification": "public",
+    "subtype": "Park",
+    "zone": "Central Business District",
+    "price": 142147.4,
+    "area": 594.49
+  },
+  "(22.560810437306728, 88.35383234345386)": {
+    "city": "Kolkata",
+    "address": "Property 4 in Rural, Kolkata",
+    "classification": "public",
+    "subtype": "Park",
+    "zone": "Rural",
+    "price": 18004.46,
+    "area": 298.51
+  },
+  "(22.462474957368958, 88.33266127781441)": {
+    "city": "Kolkata",
+    "address": "Property 5 in Suburban, Kolkata",
+    "classification": "govt",
+    "subtype": "State Government",
+    "zone": "Suburban",
+    "price": 26778.39,
+    "area": 562.31
+  },
+  "(22.76689826144159, 88.32545003125182)": {
+    "city": "Kolkata",
+    "address": "Property 6 in Commercial Zone, Kolkata",
+    "classification": "govt",
+    "subtype": "Municipal",
+    "zone": "Commercial Zone",
+    "price": 85771.86,
+    "area": 349.07
+  },
+  "(22.48401994251041, 88.44126897834978)": {
+    "city": "Kolkata",
+    "address": "Property 7 in Residential Zone, Kolkata",
+    "classification": "govt",
+    "subtype": "Central Government",
+    "zone": "Residential Zone",
+    "price": 57376.63,
+    "area": 100.91
+  },
+  "(22.501353632843493, 88.42236010320677)": {
+    "city": "Kolkata",
+    "address": "Property 8 in Central Business District, Kolkata",
+    "classification": "public",
+    "subtype": "Hospital",
+    "zone": "Central Business District",
+    "price": 140883.99,
+    "area": 537.14
+  },
+  "(22.719268244124752, 88.36445641092071)": {
+    "city": "Kolkata",
+    "address": "Property 9 in Suburban, Kolkata",
+    "classification": "private",
+    "subtype": "Industrial",
+    "zone": "Suburban",
+    "price": 44585.81,
+    "area": 233.83
+  },
+  "(22.639475970923023, 88.29494352326785)": {
+    "city": "Kolkata",
+    "address": "Property 10 in Residential Zone, Kolkata",
+    "classification": "govt",
+    "subtype": "Central Government",
+    "zone": "Residential Zone",
+    "price": 56648.19,
+    "area": 997.93
+  },
+  "(21.094576686057504, 72.83257598277541)": {
+    "city": "Surat",
+    "address": "Property 1 in Residential Zone, Surat",
+    "classification": "public",
+    "subtype": "School",
+    "zone": "Residential Zone",
+    "price": 66678.16,
+    "area": 164.97
+  },
+  "(21.200376246275454, 72.80854233587046)": {
+    "city": "Surat",
+    "address": "Property 2 in Rural, Surat",
+    "classification": "govt",
+    "subtype": "State Government",
+    "zone": "Rural",
+    "price": 14646.87,
+    "area": 215.55
+  },
+  "(21.06709552246163, 72.98648074830199)": {
+    "city": "Surat",
+    "address": "Property 3 in Residential Zone, Surat",
+    "classification": "private",
+    "subtype": "Residential",
+    "zone": "Residential Zone",
+    "price": 88893.21,
+    "area": 630.8
+  },
+  "(21.142342661065, 72.78961986023178)": {
+    "city": "Surat",
+    "address": "Property 4 in Central Business District, Surat",
+    "classification": "govt",
+    "subtype": "State Government",
+    "zone": "Central Business District",
+    "price": 98452.94,
+    "area": 371.43
+  },
+  "(21.257014573535972, 72.69831051470995)": {
+    "city": "Surat",
+    "address": "Property 5 in Central Business District, Surat",
+    "classification": "govt",
+    "subtype": "State Government",
+    "zone": "Central Business District",
+    "price": 108403.12,
+    "area": 572.87
+  },
+  "(21.30122853083872, 72.68061742000664)": {
+    "city": "Surat",
+    "address": "Property 6 in Residential Zone, Surat",
+    "classification": "private",
+    "subtype": "Residential",
+    "zone": "Residential Zone",
+    "price": 87102.84,
+    "area": 653.15
+  },
+  "(21.103577302839145, 72.67987856830402)": {
+    "city": "Surat",
+    "address": "Property 7 in Suburban, Surat",
+    "classification": "public",
+    "subtype": "School",
+    "zone": "Suburban",
+    "price": 38872.1,
+    "area": 882.82
+  },
+  "(21.230906078285592, 72.85472099473017)": {
+    "city": "Surat",
+    "address": "Property 8 in Commercial Zone, Surat",
+    "classification": "govt",
+    "subtype": "Municipal",
+    "zone": "Commercial Zone",
+    "price": 77466.19,
+    "area": 747.75
+  },
+  "(21.213205369638143, 72.83162284672764)": {
+    "city": "Surat",
+    "address": "Property 9 in Residential Zone, Surat",
+    "classification": "govt",
+    "subtype": "Central Government",
+    "zone": "Residential Zone",
+    "price": 60557.84,
+    "area": 712.18
+  },
+  "(21.27119078678622, 72.80388303027335)": {
+    "city": "Surat",
+    "address": "Property 10 in Commercial Zone, Surat",
+    "classification": "govt",
+    "subtype": "Central Government",
+    "zone": "Commercial Zone",
+    "price": 85956.75,
+    "area": 443.98
+  },
+  "(18.528016569364933, 73.80581392207999)": {
+    "city": "Pune",
+    "address": "Property 1 in Residential Zone, Pune",
+    "classification": "public",
+    "subtype": "Park",
+    "zone": "Residential Zone",
+    "price": 74636.66,
+    "area": 752.0
+  },
+  "(18.5304076506143, 73.69884042046489)": {
+    "city": "Pune",
+    "address": "Property 2 in Commercial Zone, Pune",
+    "classification": "private",
+    "subtype": "Residential",
+    "zone": "Commercial Zone",
+    "price": 133665.74,
+    "area": 430.96
+  },
+  "(18.422749372078684, 73.79647810351547)": {
+    "city": "Pune",
+    "address": "Property 3 in Commercial Zone, Pune",
+    "classification": "public",
+    "subtype": "Hospital",
+    "zone": "Commercial Zone",
+    "price": 107830.9,
+    "area": 244.31
+  },
+  "(18.541633235793707, 73.68062636038425)": {
+    "city": "Pune",
+    "address": "Property 4 in Rural, Pune",
+    "classification": "public",
+    "subtype": "Park",
+    "zone": "Rural",
+    "price": 18708.69,
+    "area": 441.1
+  },
+  "(18.357862671375365, 73.87194932852168)": {
+    "city": "Pune",
+    "address": "Property 5 in Suburban, Pune",
+    "classification": "private",
+    "subtype": "Industrial",
+    "zone": "Suburban",
+    "price": 47407.95,
+    "area": 241.05
+  },
+  "(18.57555560420625, 73.75546884354253)": {
+    "city": "Pune",
+    "address": "Property 6 in Residential Zone, Pune",
+    "classification": "govt",
+    "subtype": "Central Government",
+    "zone": "Residential Zone",
+    "price": 57551.39,
+    "area": 473.69
+  },
+  "(18.520387373504008, 73.85674337348668)": {
+    "city": "Pune",
+    "address": "Property 7 in Rural, Pune",
+    "classification": "govt",
+    "subtype": "Central Government",
+    "zone": "Rural",
+    "price": 14780.51,
+    "area": 481.01
+  },
+  "(18.516143061313763, 73.85878126637873)": {
+    "city": "Pune",
+    "address": "Property 8 in Residential Zone, Pune",
+    "classification": "private",
+    "subtype": "Residential",
+    "zone": "Residential Zone",
+    "price": 87745.97,
+    "area": 157.37
+  },
+  "(18.598252777951576, 73.84961274497596)": {
+    "city": "Pune",
+    "address": "Property 9 in Industrial Zone, Pune",
+    "classification": "private",
+    "subtype": "Agricultural",
+    "zone": "Industrial Zone",
+    "price": 62227.57,
+    "area": 996.33
+  },
+  "(18.52676367537251, 73.85198301944445)": {
+    "city": "Pune",
+    "address": "Property 10 in Industrial Zone, Pune",
+    "classification": "private",
+    "subtype": "Agricultural",
+    "zone": "Industrial Zone",
+    "price": 58095.08,
+    "area": 224.41
+  },
+  "(26.919666826564168, 75.76428363755156)": {
+    "city": "Jaipur",
+    "address": "Property 1 in Suburban, Jaipur",
+    "classification": "govt",
+    "subtype": "State Government",
+    "zone": "Suburban",
+    "price": 30344.27,
+    "area": 448.3
+  },
+  "(26.967882964705023, 75.66462623802788)": {
+    "city": "Jaipur",
+    "address": "Property 2 in Industrial Zone, Jaipur",
+    "classification": "private",
+    "subtype": "Industrial",
+    "zone": "Industrial Zone",
+    "price": 54854.85,
+    "area": 207.98
+  },
+  "(26.877304351544602, 75.82236196195556)": {
+    "city": "Jaipur",
+    "address": "Property 3 in Residential Zone, Jaipur",
+    "classification": "private",
+    "subtype": "Residential",
+    "zone": "Residential Zone",
+    "price": 90208.44,
+    "area": 182.83
+  },
+  "(26.955874946548487, 75.73907740477543)": {
+    "city": "Jaipur",
+    "address": "Property 4 in Commercial Zone, Jaipur",
+    "classification": "govt",
+    "subtype": "Central Government",
+    "zone": "Commercial Zone",
+    "price": 80029.96,
+    "area": 250.76
+  },
+  "(26.994629693133195, 75.8221653608032)": {
+    "city": "Jaipur",
+    "address": "Property 5 in Commercial Zone, Jaipur",
+    "classification": "govt",
+    "subtype": "State Government",
+    "zone": "Commercial Zone",
+    "price": 81337.38,
+    "area": 278.45
+  },
+  "(26.872726087164214, 75.68727019032076)": {
+    "city": "Jaipur",
+    "address": "Property 6 in Industrial Zone, Jaipur",
+    "classification": "public",
+    "subtype": "School",
+    "zone": "Industrial Zone",
+    "price": 42944.15,
+    "area": 239.01
+  },
+  "(26.904202375910888, 75.78366249503055)": {
+    "city": "Jaipur",
+    "address": "Property 7 in Residential Zone, Jaipur",
+    "classification": "public",
+    "subtype": "School",
+    "zone": "Residential Zone",
+    "price": 71554.35,
+    "area": 518.89
+  },
+  "(26.931007364042845, 75.78899990132194)": {
+    "city": "Jaipur",
+    "address": "Property 8 in Rural, Jaipur",
+    "classification": "public",
+    "subtype": "Transport",
+    "zone": "Rural",
+    "price": 17901.42,
+    "area": 218.42
+  },
+  "(26.775961069408954, 75.92819780183669)": {
+    "city": "Jaipur",
+    "address": "Property 9 in Residential Zone, Jaipur",
+    "classification": "public",
+    "subtype": "Transport",
+    "zone": "Residential Zone",
+    "price": 70726.74,
+    "area": 555.29
+  },
+  "(26.901830550478007, 75.7897170203553)": {
+    "city": "Jaipur",
+    "address": "Property 10 in Suburban, Jaipur",
+    "classification": "private",
+    "subtype": "Commercial",
+    "zone": "Suburban",
+    "price": 45750.84,
+    "area": 765.05
+  },
+  "(26.81998017447449, 80.9605549011936)": {
+    "city": "Lucknow",
+    "address": "Property 1 in Suburban, Lucknow",
+    "classification": "public",
+    "subtype": "Transport",
+    "zone": "Suburban",
+    "price": 34858.12,
+    "area": 447.49
+  },
+  "(26.802491849559885, 80.8203969968855)": {
+    "city": "Lucknow",
+    "address": "Property 2 in Central Business District, Lucknow",
+    "classification": "govt",
+    "subtype": "State Government",
+    "zone": "Central Business District",
+    "price": 97289.34,
+    "area": 969.94
+  },
+  "(26.69392923340798, 80.81849090942218)": {
+    "city": "Lucknow",
+    "address": "Property 3 in Residential Zone, Lucknow",
+    "classification": "public",
+    "subtype": "Transport",
+    "zone": "Residential Zone",
+    "price": 73563.31,
+    "area": 160.09
+  },
+  "(26.974671973053862, 80.88381584482882)": {
+    "city": "Lucknow",
+    "address": "Property 4 in Rural, Lucknow",
+    "classification": "govt",
+    "subtype": "State Government",
+    "zone": "Rural",
+    "price": 13844.94,
+    "area": 997.9
+  },
+  "(26.898525176747228, 80.8633249502429)": {
+    "city": "Lucknow",
+    "address": "Property 5 in Rural, Lucknow",
+    "classification": "govt",
+    "subtype": "Central Government",
+    "zone": "Rural",
+    "price": 15288.46,
+    "area": 678.73
+  },
+  "(26.850833244492925, 80.95552309579074)": {
+    "city": "Lucknow",
+    "address": "Property 6 in Rural, Lucknow",
+    "classification": "govt",
+    "subtype": "Central Government",
+    "zone": "Rural",
+    "price": 14901.85,
+    "area": 769.38
+  },
+  "(26.775922324768036, 80.79290407231933)": {
+    "city": "Lucknow",
+    "address": "Property 7 in Residential Zone, Lucknow",
+    "classification": "public",
+    "subtype": "School",
+    "zone": "Residential Zone",
+    "price": 72374.39,
+    "area": 270.71
+  },
+  "(26.846312999875558, 80.87533516831041)": {
+    "city": "Lucknow",
+    "address": "Property 8 in Suburban, Lucknow",
+    "classification": "private",
+    "subtype": "Residential",
+    "zone": "Suburban",
+    "price": 51937.37,
+    "area": 529.96
+  },
+  "(26.79948634730421, 80.87386822359511)": {
+    "city": "Lucknow",
+    "address": "Property 9 in Commercial Zone, Lucknow",
+    "classification": "private",
+    "subtype": "Residential",
+    "zone": "Commercial Zone",
+    "price": 148645.81,
+    "area": 129.38
+  },
+  "(26.92325379266995, 80.87589766972503)": {
+    "city": "Lucknow",
+    "address": "Property 10 in Industrial Zone, Lucknow",
+    "classification": "private",
+    "subtype": "Commercial",
+    "zone": "Industrial Zone",
+    "price": 63779.8,
+    "area": 246.38
+  },
+  "(26.461999035722894, 80.312555312019)": {
+    "city": "Kanpur",
+    "address": "Property 1 in Industrial Zone, Kanpur",
+    "classification": "govt",
+    "subtype": "Municipal",
+    "zone": "Industrial Zone",
+    "price": 38321.5,
+    "area": 510.46
+  },
+  "(26.44805724613005, 80.32578848277213)": {
+    "city": "Kanpur",
+    "address": "Property 2 in Rural, Kanpur",
+    "classification": "private",
+    "subtype": "Commercial",
+    "zone": "Rural",
+    "price": 26130.34,
+    "area": 377.45
+  },
+  "(26.44349827971978, 80.44087518584239)": {
+    "city": "Kanpur",
+    "address": "Property 3 in Commercial Zone, Kanpur",
+    "classification": "public",
+    "subtype": "Hospital",
+    "zone": "Commercial Zone",
+    "price": 110628.91,
+    "area": 583.81
+  },
+  "(26.449150533211988, 80.33312879363393)": {
+    "city": "Kanpur",
+    "address": "Property 4 in Industrial Zone, Kanpur",
+    "classification": "public",
+    "subtype": "Park",
+    "zone": "Industrial Zone",
+    "price": 47416.43,
+    "area": 273.56
+  },
+  "(26.388766989691828, 80.22746241499647)": {
+    "city": "Kanpur",
+    "address": "Property 5 in Suburban, Kanpur",
+    "classification": "govt",
+    "subtype": "Central Government",
+    "zone": "Suburban",
+    "price": 26802.9,
+    "area": 918.87
+  },
+  "(26.39773496593952, 80.33812695586712)": {
+    "city": "Kanpur",
+    "address": "Property 6 in Commercial Zone, Kanpur",
+    "classification": "public",
+    "subtype": "Transport",
+    "zone": "Commercial Zone",
+    "price": 104919.79,
+    "area": 866.13
+  },
+  "(26.26749226921068, 80.36448939861879)": {
+    "city": "Kanpur",
+    "address": "Property 7 in Central Business District, Kanpur",
+    "classification": "public",
+    "subtype": "School",
+    "zone": "Central Business District",
+    "price": 146022.21,
+    "area": 341.85
+  },
+  "(26.444293898480442, 80.37100174585579)": {
+    "city": "Kanpur",
+    "address": "Property 8 in Central Business District, Kanpur",
+    "classification": "private",
+    "subtype": "Residential",
+    "zone": "Central Business District",
+    "price": 168146.14,
+    "area": 163.83
+  },
+  "(26.45153169644602, 80.33090225486217)": {
+    "city": "Kanpur",
+    "address": "Property 9 in Residential Zone, Kanpur",
+    "classification": "govt",
+    "subtype": "State Government",
+    "zone": "Residential Zone",
+    "price": 53639.85,
+    "area": 370.95
+  },
+  "(26.5027175063238, 80.16955836739605)": {
+    "city": "Kanpur",
+    "address": "Property 10 in Rural, Kanpur",
+    "classification": "public",
+    "subtype": "Hospital",
+    "zone": "Rural",
+    "price": 16569.78,
+    "area": 952.68
+  },
+  "(21.111587822576308, 78.89991849726856)": {
+    "city": "Nagpur",
+    "address": "Property 1 in Rural, Nagpur",
+    "classification": "private",
+    "subtype": "Residential",
+    "zone": "Rural",
+    "price": 24242.53,
+    "area": 720.68
+  },
+  "(21.278512323345343, 79.10721873974826)": {
+    "city": "Nagpur",
+    "address": "Property 2 in Suburban, Nagpur",
+    "classification": "private",
+    "subtype": "Industrial",
+    "zone": "Suburban",
+    "price": 45151.67,
+    "area": 497.24
+  },
+  "(21.307574031566034, 79.11529059423562)": {
+    "city": "Nagpur",
+    "address": "Property 3 in Industrial Zone, Nagpur",
+    "classification": "govt",
+    "subtype": "State Government",
+    "zone": "Industrial Zone",
+    "price": 31645.64,
+    "area": 420.43
+  },
+  "(21.202371348728587, 79.21131911969115)": {
+    "city": "Nagpur",
+    "address": "Property 4 in Suburban, Nagpur",
+    "classification": "private",
+    "subtype": "Agricultural",
+    "zone": "Suburban",
+    "price": 43678.7,
+    "area": 977.88
+  },
+  "(21.144538345244364, 79.09094942599695)": {
+    "city": "Nagpur",
+    "address": "Property 5 in Central Business District, Nagpur",
+    "classification": "govt",
+    "subtype": "Central Government",
+    "zone": "Central Business District",
+    "price": 106233.55,
+    "area": 769.46
+  },
+  "(21.046163461535002, 79.06689370776621)": {
+    "city": "Nagpur",
+    "address": "Property 6 in Residential Zone, Nagpur",
+    "classification": "private",
+    "subtype": "Industrial",
+    "zone": "Residential Zone",
+    "price": 90548.15,
+    "area": 249.43
+  },
+  "(21.158529436306296, 79.10413947334614)": {
+    "city": "Nagpur",
+    "address": "Property 7 in Suburban, Nagpur",
+    "classification": "public",
+    "subtype": "Hospital",
+    "zone": "Suburban",
+    "price": 38647.59,
+    "area": 149.05
+  },
+  "(21.179755101553432, 79.17984118828808)": {
+    "city": "Nagpur",
+    "address": "Property 8 in Industrial Zone, Nagpur",
+    "classification": "private",
+    "subtype": "Agricultural",
+    "zone": "Industrial Zone",
+    "price": 55213.67,
+    "area": 293.2
+  },
+  "(21.159467786005706, 78.97580197092498)": {
+    "city": "Nagpur",
+    "address": "Property 9 in Industrial Zone, Nagpur",
+    "classification": "public",
+    "subtype": "Transport",
+    "zone": "Industrial Zone",
+    "price": 44859.07,
+    "area": 798.35
+  },
+  "(21.09392412766193, 79.07110793040985)": {
+    "city": "Nagpur",
+    "address": "Property 10 in Industrial Zone, Nagpur",
+    "classification": "public",
+    "subtype": "School",
+    "zone": "Industrial Zone",
+    "price": 48390.51,
+    "area": 276.81
+  },
+  "(17.799775693568407, 83.09106673633117)": {
+    "city": "Visakhapatnam",
+    "address": "Property 1 in Rural, Visakhapatnam",
+    "classification": "private",
+    "subtype": "Industrial",
+    "zone": "Rural",
+    "price": 23669.94,
+    "area": 508.14
+  },
+  "(17.69770232023609, 83.22708355120935)": {
+    "city": "Visakhapatnam",
+    "address": "Property 2 in Commercial Zone, Visakhapatnam",
+    "classification": "govt",
+    "subtype": "State Government",
+    "zone": "Commercial Zone",
+    "price": 81450.16,
+    "area": 804.27
+  },
+  "(17.74069079069161, 83.22041357129247)": {
+    "city": "Visakhapatnam",
+    "address": "Property 3 in Commercial Zone, Visakhapatnam",
+    "classification": "public",
+    "subtype": "Transport",
+    "zone": "Commercial Zone",
+    "price": 118528.26,
+    "area": 165.67
+  },
+  "(17.792235197560192, 83.20863801329693)": {
+    "city": "Visakhapatnam",
+    "address": "Property 4 in Suburban, Visakhapatnam",
+    "classification": "private",
+    "subtype": "Industrial",
+    "zone": "Suburban",
+    "price": 46148.27,
+    "area": 636.21
+  },
+  "(17.71838867598417, 83.3008719378491)": {
+    "city": "Visakhapatnam",
+    "address": "Property 5 in Commercial Zone, Visakhapatnam",
+    "classification": "govt",
+    "subtype": "Central Government",
+    "zone": "Commercial Zone",
+    "price": 90944.93,
+    "area": 185.69
+  },
+  "(17.601002315429923, 83.21067453972871)": {
+    "city": "Visakhapatnam",
+    "address": "Property 6 in Central Business District, Visakhapatnam",
+    "classification": "public",
+    "subtype": "Park",
+    "zone": "Central Business District",
+    "price": 129389.91,
+    "area": 795.01
+  },
+  "(17.693972562974118, 83.20446007090389)": {
+    "city": "Visakhapatnam",
+    "address": "Property 7 in Suburban, Visakhapatnam",
+    "classification": "public",
+    "subtype": "Hospital",
+    "zone": "Suburban",
+    "price": 39442.89,
+    "area": 290.44
+  },
+  "(17.624524205194064, 83.27927507522232)": {
+    "city": "Visakhapatnam",
+    "address": "Property 8 in Industrial Zone, Visakhapatnam",
+    "classification": "private",
+    "subtype": "Agricultural",
+    "zone": "Industrial Zone",
+    "price": 59604.9,
+    "area": 984.3
+  },
+  "(17.7232205901485, 83.17712263032512)": {
+    "city": "Visakhapatnam",
+    "address": "Property 9 in Residential Zone, Visakhapatnam",
+    "classification": "public",
+    "subtype": "Hospital",
+    "zone": "Residential Zone",
+    "price": 74757.8,
+    "area": 200.31
+  },
+  "(17.767922612609567, 83.16303263315041)": {
+    "city": "Visakhapatnam",
+    "address": "Property 10 in Rural, Visakhapatnam",
+    "classification": "public",
+    "subtype": "School",
+    "zone": "Rural",
+    "price": 18214.48,
+    "area": 513.57
+  },
+  "(22.703336411034105, 75.86804161338887)": {
+    "city": "Indore",
+    "address": "Property 1 in Central Business District, Indore",
+    "classification": "public",
+    "subtype": "Park",
+    "zone": "Central Business District",
+    "price": 140845.06,
+    "area": 870.56
+  },
+  "(22.6821985777049, 75.94247209362962)": {
+    "city": "Indore",
+    "address": "Property 2 in Residential Zone, Indore",
+    "classification": "public",
+    "subtype": "School",
+    "zone": "Residential Zone",
+    "price": 65804.05,
+    "area": 170.89
+  },
+  "(22.607750642273597, 75.9451821670846)": {
+    "city": "Indore",
+    "address": "Property 3 in Industrial Zone, Indore",
+    "classification": "private",
+    "subtype": "Industrial",
+    "zone": "Industrial Zone",
+    "price": 61795.71,
+    "area": 747.36
+  },
+  "(22.72735605569304, 75.88515315331213)": {
+    "city": "Indore",
+    "address": "Property 4 in Commercial Zone, Indore",
+    "classification": "public",
+    "subtype": "Hospital",
+    "zone": "Commercial Zone",
+    "price": 105431.15,
+    "area": 715.38
+  },
+  "(22.709741097557984, 75.68401511363447)": {
+    "city": "Indore",
+    "address": "Property 5 in Rural, Indore",
+    "classification": "private",
+    "subtype": "Agricultural",
+    "zone": "Rural",
+    "price": 24810.11,
+    "area": 655.47
+  },
+  "(22.729217535944823, 75.83767834127472)": {
+    "city": "Indore",
+    "address": "Property 6 in Rural, Indore",
+    "classification": "govt",
+    "subtype": "Municipal",
+    "zone": "Rural",
+    "price": 15010.55,
+    "area": 162.2
+  },
+  "(22.77548120775625, 76.00180150424453)": {
+    "city": "Indore",
+    "address": "Property 7 in Residential Zone, Indore",
+    "classification": "private",
+    "subtype": "Agricultural",
+    "zone": "Residential Zone",
+    "price": 100485.07,
+    "area": 214.27
+  },
+  "(22.65740647768272, 75.83243476626173)": {
+    "city": "Indore",
+    "address": "Property 8 in Suburban, Indore",
+    "classification": "private",
+    "subtype": "Commercial",
+    "zone": "Suburban",
+    "price": 50915.38,
+    "area": 486.69
+  },
+  "(22.768413941529403, 75.92705656670259)": {
+    "city": "Indore",
+    "address": "Property 9 in Commercial Zone, Indore",
+    "classification": "govt",
+    "subtype": "Central Government",
+    "zone": "Commercial Zone",
+    "price": 90784.47,
+    "area": 718.61
+  },
+  "(22.7511272201634, 75.74369535705266)": {
+    "city": "Indore",
+    "address": "Property 10 in Suburban, Indore",
+    "classification": "private",
+    "subtype": "Industrial",
+    "zone": "Suburban",
+    "price": 48845.17,
+    "area": 295.92
+  },
+  "(19.08288803964537, 73.01094957392105)": {
+    "city": "Thane",
+    "address": "Property 1 in Residential Zone, Thane",
+    "classification": "private",
+    "subtype": "Industrial",
+    "zone": "Residential Zone",
+    "price": 97827.53,
+    "area": 976.87
+  },
+  "(19.22572500368636, 72.96658084492503)": {
+    "city": "Thane",
+    "address": "Property 2 in Suburban, Thane",
+    "classification": "public",
+    "subtype": "Transport",
+    "zone": "Suburban",
+    "price": 37892.7,
+    "area": 948.17
+  },
+  "(19.143198381874505, 72.88999340041069)": {
+    "city": "Thane",
+    "address": "Property 3 in Residential Zone, Thane",
+    "classification": "public",
+    "subtype": "School",
+    "zone": "Residential Zone",
+    "price": 71179.85,
+    "area": 569.06
+  },
+  "(19.101521237211195, 72.89893921387733)": {
+    "city": "Thane",
+    "address": "Property 4 in Commercial Zone, Thane",
+    "classification": "private",
+    "subtype": "Agricultural",
+    "zone": "Commercial Zone",
+    "price": 142299.61,
+    "area": 996.74
+  },
+  "(19.292415634860337, 73.08806228081943)": {
+    "city": "Thane",
+    "address": "Property 5 in Rural, Thane",
+    "classification": "public",
+    "subtype": "Park",
+    "zone": "Rural",
+    "price": 19273.26,
+    "area": 134.29
+  },
+  "(19.220635066213262, 72.87207284296075)": {
+    "city": "Thane",
+    "address": "Property 6 in Suburban, Thane",
+    "classification": "govt",
+    "subtype": "Municipal",
+    "zone": "Suburban",
+    "price": 27211.17,
+    "area": 192.53
+  },
+  "(19.210660969616615, 72.96849558058226)": {
+    "city": "Thane",
+    "address": "Property 7 in Commercial Zone, Thane",
+    "classification": "govt",
+    "subtype": "State Government",
+    "zone": "Commercial Zone",
+    "price": 91399.4,
+    "area": 921.96
+  },
+  "(19.16989362972266, 73.04665279766897)": {
+    "city": "Thane",
+    "address": "Property 8 in Rural, Thane",
+    "classification": "public",
+    "subtype": "Hospital",
+    "zone": "Rural",
+    "price": 19256.15,
+    "area": 853.61
+  },
+  "(19.243595285809153, 73.15894357216742)": {
+    "city": "Thane",
+    "address": "Property 9 in Suburban, Thane",
+    "classification": "govt",
+    "subtype": "Municipal",
+    "zone": "Suburban",
+    "price": 25647.87,
+    "area": 189.39
+  },
+  "(19.277415156303974, 72.94602697192754)": {
+    "city": "Thane",
+    "address": "Property 10 in Residential Zone, Thane",
+    "classification": "public",
+    "subtype": "School",
+    "zone": "Residential Zone",
+    "price": 67610.6,
+    "area": 748.14
+  },
+  "(23.21998241717964, 77.31650729871993)": {
+    "city": "Bhopal",
+    "address": "Property 1 in Suburban, Bhopal",
+    "classification": "govt",
+    "subtype": "Municipal",
+    "zone": "Suburban",
+    "price": 30046.17,
+    "area": 133.44
+  },
+  "(23.376493579305766, 77.35460967667245)": {
+    "city": "Bhopal",
+    "address": "Property 2 in Commercial Zone, Bhopal",
+    "classification": "private",
+    "subtype": "Industrial",
+    "zone": "Commercial Zone",
+    "price": 153631.92,
+    "area": 111.12
+  },
+  "(23.236767517522786, 77.34297237816118)": {
+    "city": "Bhopal",
+    "address": "Property 3 in Suburban, Bhopal",
+    "classification": "private",
+    "subtype": "Residential",
+    "zone": "Suburban",
+    "price": 43699.71,
+    "area": 721.39
+  },
+  "(23.344814199954488, 77.55394968075565)": {
+    "city": "Bhopal",
+    "address": "Property 4 in Central Business District, Bhopal",
+    "classification": "private",
+    "subtype": "Agricultural",
+    "zone": "Central Business District",
+    "price": 181846.07,
+    "area": 789.69
+  },
+  "(23.242875457371355, 77.42909727778779)": {
+    "city": "Bhopal",
+    "address": "Property 5 in Commercial Zone, Bhopal",
+    "classification": "private",
+    "subtype": "Industrial",
+    "zone": "Commercial Zone",
+    "price": 136309.74,
+    "area": 147.95
+  },
+  "(23.294505413270574, 77.34055279393351)": {
+    "city": "Bhopal",
+    "address": "Property 6 in Industrial Zone, Bhopal",
+    "classification": "public",
+    "subtype": "Hospital",
+    "zone": "Industrial Zone",
+    "price": 46528.89,
+    "area": 978.72
+  },
+  "(23.25324250053685, 77.39052430820652)": {
+    "city": "Bhopal",
+    "address": "Property 7 in Central Business District, Bhopal",
+    "classification": "public",
+    "subtype": "Hospital",
+    "zone": "Central Business District",
+    "price": 140134.8,
+    "area": 209.19
+  },
+  "(23.357764180685763, 77.55420987235686)": {
+    "city": "Bhopal",
+    "address": "Property 8 in Central Business District, Bhopal",
+    "classification": "govt",
+    "subtype": "State Government",
+    "zone": "Central Business District",
+    "price": 111765.2,
+    "area": 922.61
+  },
+  "(23.33647634036931, 77.43036542392973)": {
+    "city": "Bhopal",
+    "address": "Property 9 in Industrial Zone, Bhopal",
+    "classification": "govt",
+    "subtype": "Central Government",
+    "zone": "Industrial Zone",
+    "price": 36520.11,
+    "area": 166.43
+  },
+  "(23.215669312020147, 77.43123912313544)": {
+    "city": "Bhopal",
+    "address": "Property 10 in Commercial Zone, Bhopal",
+    "classification": "public",
+    "subtype": "School",
+    "zone": "Commercial Zone",
+    "price": 118611.76,
+    "area": 821.82
+  },
+  "(25.614325184219616, 85.13471355994082)": {
+    "city": "Patna",
+    "address": "Property 1 in Commercial Zone, Patna",
+    "classification": "private",
+    "subtype": "Industrial",
+    "zone": "Commercial Zone",
+    "price": 147664.13,
+    "area": 649.18
+  },
+  "(25.564759683847328, 85.0605875040652)": {
+    "city": "Patna",
+    "address": "Property 2 in Rural, Patna",
+    "classification": "private",
+    "subtype": "Residential",
+    "zone": "Rural",
+    "price": 23323.66,
+    "area": 245.93
+  },
+  "(25.688154066718088, 85.26518303311768)": {
+    "city": "Patna",
+    "address": "Property 3 in Residential Zone, Patna",
+    "classification": "private",
+    "subtype": "Residential",
+    "zone": "Residential Zone",
+    "price": 102700.15,
+    "area": 481.2
+  },
+  "(25.550209400651763, 85.3071220669529)": {
+    "city": "Patna",
+    "address": "Property 4 in Residential Zone, Patna",
+    "classification": "govt",
+    "subtype": "Central Government",
+    "zone": "Residential Zone",
+    "price": 51087.21,
+    "area": 944.04
+  },
+  "(25.586027381181836, 85.17159590263687)": {
+    "city": "Patna",
+    "address": "Property 5 in Suburban, Patna",
+    "classification": "public",
+    "subtype": "Park",
+    "zone": "Suburban",
+    "price": 35208.4,
+    "area": 152.4
+  },
+  "(25.7928441680776, 85.12181574187181)": {
+    "city": "Patna",
+    "address": "Property 6 in Suburban, Patna",
+    "classification": "private",
+    "subtype": "Industrial",
+    "zone": "Suburban",
+    "price": 46998.61,
+    "area": 604.39
+  },
+  "(25.538184800115292, 85.12922183278448)": {
+    "city": "Patna",
+    "address": "Property 7 in Suburban, Patna",
+    "classification": "govt",
+    "subtype": "Municipal",
+    "zone": "Suburban",
+    "price": 27089.38,
+    "area": 702.92
+  },
+  "(25.437624350391737, 85.06020195789273)": {
+    "city": "Patna",
+    "address": "Property 8 in Central Business District, Patna",
+    "classification": "public",
+    "subtype": "Park",
+    "zone": "Central Business District",
+    "price": 128164.69,
+    "area": 755.52
+  },
+  "(25.603815147339905, 85.12889862942251)": {
+    "city": "Patna",
+    "address": "Property 9 in Central Business District, Patna",
+    "classification": "private",
+    "subtype": "Industrial",
+    "zone": "Central Business District",
+    "price": 192741.52,
+    "area": 983.6
+  },
+  "(25.57973180710828, 85.24278309680284)": {
+    "city": "Patna",
+    "address": "Property 10 in Commercial Zone, Patna",
+    "classification": "govt",
+    "subtype": "Central Government",
+    "zone": "Commercial Zone",
+    "price": 81065.35,
+    "area": 863.96
+  },
+  "(22.381543495175773, 73.32898063222409)": {
+    "city": "Vadodara",
+    "address": "Property 1 in Rural, Vadodara",
+    "classification": "govt",
+    "subtype": "Municipal",
+    "zone": "Rural",
+    "price": 13131.0,
+    "area": 285.46
+  },
+  "(22.163142158167243, 73.30383654690233)": {
+    "city": "Vadodara",
+    "address": "Property 2 in Rural, Vadodara",
+    "classification": "govt",
+    "subtype": "Municipal",
+    "zone": "Rural",
+    "price": 13861.61,
+    "area": 525.22
+  },
+  "(22.182689346635108, 73.29855887045484)": {
+    "city": "Vadodara",
+    "address": "Property 3 in Commercial Zone, Vadodara",
+    "classification": "govt",
+    "subtype": "State Government",
+    "zone": "Commercial Zone",
+    "price": 83950.79,
+    "area": 616.73
+  },
+  "(22.341734664489575, 73.25241594151467)": {
+    "city": "Vadodara",
+    "address": "Property 4 in Residential Zone, Vadodara",
+    "classification": "private",
+    "subtype": "Commercial",
+    "zone": "Residential Zone",
+    "price": 104259.15,
+    "area": 250.66
+  },
+  "(22.419380478484534, 73.04591860296652)": {
+    "city": "Vadodara",
+    "address": "Property 5 in Suburban, Vadodara",
+    "classification": "govt",
+    "subtype": "State Government",
+    "zone": "Suburban",
+    "price": 25822.97,
+    "area": 630.29
+  },
+  "(22.288691670388292, 73.0874280936785)": {
+    "city": "Vadodara",
+    "address": "Property 6 in Commercial Zone, Vadodara",
+    "classification": "private",
+    "subtype": "Agricultural",
+    "zone": "Commercial Zone",
+    "price": 134874.78,
+    "area": 889.62
+  },
+  "(22.27349401542946, 73.19435561521827)": {
+    "city": "Vadodara",
+    "address": "Property 7 in Suburban, Vadodara",
+    "classification": "govt",
+    "subtype": "State Government",
+    "zone": "Suburban",
+    "price": 30697.38,
+    "area": 508.32
+  },
+  "(22.37308006178312, 73.22023536663835)": {
+    "city": "Vadodara",
+    "address": "Property 8 in Suburban, Vadodara",
+    "classification": "govt",
+    "subtype": "Municipal",
+    "zone": "Suburban",
+    "price": 29055.39,
+    "area": 474.61
+  },
+  "(22.249946038250407, 73.05671759877096)": {
+    "city": "Vadodara",
+    "address": "Property 9 in Commercial Zone, Vadodara",
+    "classification": "govt",
+    "subtype": "Municipal",
+    "zone": "Commercial Zone",
+    "price": 81756.2,
+    "area": 495.87
+  },
+  "(22.32183722141815, 73.05217378800029)": {
+    "city": "Vadodara",
+    "address": "Property 10 in Rural, Vadodara",
+    "classification": "govt",
+    "subtype": "Municipal",
+    "zone": "Rural",
+    "price": 14733.49,
+    "area": 234.63
+  },
+  "(28.583624070623866, 77.58027212786736)": {
+    "city": "Ghaziabad",
+    "address": "Property 1 in Central Business District, Ghaziabad",
+    "classification": "govt",
+    "subtype": "Municipal",
+    "zone": "Central Business District",
+    "price": 102831.9,
+    "area": 461.59
+  },
+  "(28.708112678783888, 77.45149505148675)": {
+    "city": "Ghaziabad",
+    "address": "Property 2 in Industrial Zone, Ghaziabad",
+    "classification": "private",
+    "subtype": "Industrial",
+    "zone": "Industrial Zone",
+    "price": 55133.37,
+    "area": 704.03
+  },
+  "(28.853767084514818, 77.51974590283795)": {
+    "city": "Ghaziabad",
+    "address": "Property 3 in Commercial Zone, Ghaziabad",
+    "classification": "govt",
+    "subtype": "Municipal",
+    "zone": "Commercial Zone",
+    "price": 88246.41,
+    "area": 439.83
+  },
+  "(28.713660422654186, 77.41572345551113)": {
+    "city": "Ghaziabad",
+    "address": "Property 4 in Suburban, Ghaziabad",
+    "classification": "public",
+    "subtype": "School",
+    "zone": "Suburban",
+    "price": 34029.47,
+    "area": 431.06
+  },
+  "(28.72189737837182, 77.3423708969427)": {
+    "city": "Ghaziabad",
+    "address": "Property 5 in Industrial Zone, Ghaziabad",
+    "classification": "public",
+    "subtype": "Park",
+    "zone": "Industrial Zone",
+    "price": 45155.97,
+    "area": 308.2
+  },
+  "(28.583696137441876, 77.50694725064274)": {
+    "city": "Ghaziabad",
+    "address": "Property 6 in Rural, Ghaziabad",
+    "classification": "public",
+    "subtype": "School",
+    "zone": "Rural",
+    "price": 18389.5,
+    "area": 449.15
+  },
+  "(28.81902943140768, 77.37681832734796)": {
+    "city": "Ghaziabad",
+    "address": "Property 7 in Commercial Zone, Ghaziabad",
+    "classification": "public",
+    "subtype": "Park",
+    "zone": "Commercial Zone",
+    "price": 113337.23,
+    "area": 840.07
+  },
+  "(28.692259702306337, 77.51534953679405)": {
+    "city": "Ghaziabad",
+    "address": "Property 8 in Residential Zone, Ghaziabad",
+    "classification": "public",
+    "subtype": "Park",
+    "zone": "Residential Zone",
+    "price": 71116.62,
+    "area": 428.16
+  },
+  "(28.732239347911754, 77.39002738341071)": {
+    "city": "Ghaziabad",
+    "address": "Property 9 in Industrial Zone, Ghaziabad",
+    "classification": "private",
+    "subtype": "Residential",
+    "zone": "Industrial Zone",
+    "price": 61459.96,
+    "area": 550.43
+  },
+  "(28.54066047671545, 77.48102714928825)": {
+    "city": "Ghaziabad",
+    "address": "Property 10 in Industrial Zone, Ghaziabad",
+    "classification": "private",
+    "subtype": "Industrial",
+    "zone": "Industrial Zone",
+    "price": 65060.94,
+    "area": 175.83
+  }
+}
